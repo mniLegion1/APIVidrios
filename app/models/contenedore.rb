@@ -1,0 +1,2 @@
+class Contenedore < ApplicationRecord
+end
