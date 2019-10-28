@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cantKg: 1.5
+  dia: MyString
+  fecha: 2019-10-28 11:52:57
+
+two:
+  cantKg: 1.5
+  dia: MyString
+  fecha: 2019-10-28 11:52:57
